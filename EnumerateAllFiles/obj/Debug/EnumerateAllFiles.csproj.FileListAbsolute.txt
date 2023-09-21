@@ -1,0 +1,6 @@
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\EnumerateAllFiles\bin\Debug\EnumerateAllFiles.dll
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\EnumerateAllFiles\bin\Debug\EnumerateAllFiles.pdb
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\EnumerateAllFiles\obj\Debug\EnumerateAllFiles.csproj.AssemblyReference.cache
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\EnumerateAllFiles\obj\Debug\EnumerateAllFiles.csproj.CoreCompileInputs.cache
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\EnumerateAllFiles\obj\Debug\EnumerateAllFiles.dll
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\EnumerateAllFiles\obj\Debug\EnumerateAllFiles.pdb

@@ -1,0 +1,13 @@
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\bin\Debug\EnumerateAllFiles.dll
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\bin\Debug\EnumerateAllFiles.pdb
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\FileCrawler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataClass.resources
