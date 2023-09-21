@@ -1,0 +1,10 @@
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\GITREPO\DirectoryCrawler\ConsolaTestowa\bin\Debug\ConsolaTestowa.exe.config
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\GITREPO\DirectoryCrawler\ConsolaTestowa\bin\Debug\ConsolaTestowa.exe
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\GITREPO\DirectoryCrawler\ConsolaTestowa\bin\Debug\ConsolaTestowa.pdb
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\GITREPO\DirectoryCrawler\ConsolaTestowa\bin\Debug\EnumerateAllFiles.dll
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\GITREPO\DirectoryCrawler\ConsolaTestowa\bin\Debug\EnumerateAllFiles.pdb
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\GITREPO\DirectoryCrawler\ConsolaTestowa\obj\Debug\ConsolaTestowa.csproj.AssemblyReference.cache
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\GITREPO\DirectoryCrawler\ConsolaTestowa\obj\Debug\ConsolaTestowa.csproj.CoreCompileInputs.cache
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\GITREPO\DirectoryCrawler\ConsolaTestowa\obj\Debug\ConsolaTestowa.csproj.CopyComplete
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\GITREPO\DirectoryCrawler\ConsolaTestowa\obj\Debug\ConsolaTestowa.exe
+C:\!ONEDRIVES\Vitto_Gazeta\OneDrive\C#\GITREPO\DirectoryCrawler\ConsolaTestowa\obj\Debug\ConsolaTestowa.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CBCD98CE-1AEB-4E0D-B539-56E639D71375}</ProjectGuid>
+    <ProjectGuid>{A65D959B-F5DE-44C6-B6A8-2C39EB9F355E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FileCrawler</RootNamespace>
-    <AssemblyName>FileCrawler</AssemblyName>
+    <RootNamespace>ConsolaTestowa</RootNamespace>
+    <AssemblyName>ConsolaTestowa</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClassOwnArgs.cs" />
-    <Compile Include="FileCrawler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EnumerateAllFiles\EnumerateAllFiles.csproj">
+      <Project>{99c86fbc-eef3-4774-a4c4-fb5b53bc216b}</Project>
+      <Name>EnumerateAllFiles</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
